@@ -1,2 +1,1 @@
-# AOC
- 
+# Advent of code 
